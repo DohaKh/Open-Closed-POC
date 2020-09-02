@@ -1,0 +1,6 @@
+D:\Development Plan\Career Development Plan Jun-2020\5- SOLID Principles\SalaryCalWithoutOCP\SalaryCalWithOCP\obj\Debug\SalaryCalWithOCP.csproj.CoreCompileInputs.cache
+D:\Development Plan\Career Development Plan Jun-2020\5- SOLID Principles\SalaryCalWithoutOCP\SalaryCalWithOCP\bin\Debug\SalaryCalWithOCP.exe.config
+D:\Development Plan\Career Development Plan Jun-2020\5- SOLID Principles\SalaryCalWithoutOCP\SalaryCalWithOCP\bin\Debug\SalaryCalWithOCP.exe
+D:\Development Plan\Career Development Plan Jun-2020\5- SOLID Principles\SalaryCalWithoutOCP\SalaryCalWithOCP\bin\Debug\SalaryCalWithOCP.pdb
+D:\Development Plan\Career Development Plan Jun-2020\5- SOLID Principles\SalaryCalWithoutOCP\SalaryCalWithOCP\obj\Debug\SalaryCalWithOCP.exe
+D:\Development Plan\Career Development Plan Jun-2020\5- SOLID Principles\SalaryCalWithoutOCP\SalaryCalWithOCP\obj\Debug\SalaryCalWithOCP.pdb
